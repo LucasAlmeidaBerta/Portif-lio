@@ -1,0 +1,1 @@
+This project was developed to meet a challenge from my university, where I’m currently enrolled. It was built using only HTML5 and CSS, and it provides a brief introduction about me, details on where I’ve studied over the years, a contact page, and a projects page. I hope you enjoy it.
